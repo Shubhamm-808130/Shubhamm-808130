@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubhamm-808130
-- 👀 I’m interested in ... Database adminstration
+- 👀 I’m interested in ... Database administrator
 - 🌱 I’m currently learning ... Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
